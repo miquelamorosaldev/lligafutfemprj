@@ -1,0 +1,14 @@
+{% extends 'lliga/base.html' %}
+
+{% block content %}
+  <h3>Llista de lligues</h3>
+  <ul>
+    {% for lliga in lligues %}
+    <li>
+      <a href="/lliga/{{lliga.id}}/">{{ lliga.nom_temporada }}</a>
+    </li>
+    {% empty %}
+      <li>No hi ha lligues disponibles.</li>
+    {% endfor %}
+  </ul>
+{% endblock %}

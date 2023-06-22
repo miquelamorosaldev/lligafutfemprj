@@ -1,0 +1,15 @@
+{% extends 'lliga/base.html' %}
+
+{% block content %}
+
+<h3>Dades de la lliga <em>{{ lliga.nom_temporada }}</em> i els seus equips.</h3>
+<h4>Equips de la lliga ordenats per nom:</h4>
+  <ul>
+    {% for equip in equips %}
+      <li>{{ equip.nom_equip }}</li>
+    {% empty %}
+      <li>No hi ha lligues disponibles.</li>
+    {% endfor %}
+  </ul>
+
+{% endblock %}

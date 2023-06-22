@@ -1,0 +1,22 @@
+  <h1>Lligues</h1>
+  <ul>
+    {% for lliga in lligues %}
+      <li>
+      	<!-- <a href="{% url 'liga:lliga_detail' lliga.id %}"> !--> 
+      	  {{  lliga.nom_temporada }}
+      	  <!-- </a> -->
+      </li>
+    {% empty %}
+      <li>No hi ha lligues disponibles.</li>
+    {% endfor %}
+  </ul>
+
+
+  <nav>
+        <!-- Menú de navegació comú -->
+        <ul>
+            <li><a href="{% url 'lliga_list' %}">Lligues</a></li>
+            <li><a href="{% url 'equip_list' %}">Equips</a></li>
+            <!-- Altres enllaços de navegació -->
+        </ul>
+    </nav>
