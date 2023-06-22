@@ -12,5 +12,5 @@ def index(request):
 def detail(request, lliga_id):
     lliga = get_object_or_404(Lliga, pk=lliga_id)
     equips = Equip.objects.filter(lliga=lliga)
-    print(equips)
+    #print(equips)
     return render(request, "lliga/detail.html", {"lliga": lliga, "equips": equips})

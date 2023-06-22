@@ -1,6 +1,6 @@
 from django.urls import path
 
-from . import views
+from . import views, api
 
 # app_name = "lliga"
 urlpatterns = [
@@ -8,4 +8,6 @@ urlpatterns = [
     path("", views.index, name="index"),
     # ex: /lliga/1/
     path("<int:lliga_id>/", views.detail, name="detail"),
+    path('get_lligues', api.get_lligues ),
+    path('get_equips/<int:lliga_id>', api.get_equips ),
 ]
