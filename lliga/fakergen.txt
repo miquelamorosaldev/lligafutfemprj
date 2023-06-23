@@ -1,0 +1,542 @@
+Creem equips
+0 Athletic  Castellón
+Creem jugadores de l'equip 0 Athletic  Castellón
+0  -  Leyre   Rios
+0  -  María   Aramburu
+0  -  Trini   Anaya
+0  -  María Del Carmen   Manzano
+0  -  Amaya   Guzmán
+0  -  Chlóe   Pelayo
+0  -  Laia   Valenzuela
+0  -  Antònia   Mir
+0  -  Consuelo   Plana
+0  -  Núria   Lillo
+0  -  Evita   Grande
+0  -  Abril   Sáenz
+0  -  Anna   Herranz
+0  -  Marta   Marín
+0  -  Salud   Montes
+0  -  María José   Sanmartín
+0  -  María Carmen   Arregui
+0  -  Rosalva   Huerta
+0  -  Rosa   Baena
+0  -  María Pilar   Palau
+0  -  Chlóe   Carballo
+0  -  Aina   Valenciano
+0  -  Noa   Prada
+0  -  Anna   Salvà
+0  -  Francisca   Pla
+1 FC  Segovia
+Creem jugadores de l'equip 1 FC  Segovia
+1  -  Guiomar   Alcántara
+1  -  Albina   Santamaria
+1  -  Sílvia   Pombo
+1  -  Laia   Sánchez
+1  -  Benita   Leiva
+1  -  Lucila   Abellán
+1  -  Laia   Ariño
+1  -  Yolanda   Fernández
+1  -  Hortensia   Carrasco
+1  -  Emelina   Mateu
+1  -  María Dolores   Rozas
+1  -  Rosa   Alcázar
+1  -  Lucia   Carro
+1  -  Celia   Ricart
+1  -  Carmelita   Guillen
+1  -  Antonia   Tomé
+1  -  Paula   Gutiérrez
+1  -  Carina   Bayo
+1  -  Rosa   Briones
+1  -  Anna   Ibáñez
+1  -  Pascuala   Asensio
+1  -  Antònia   Benito
+1  -  Valentina   Vall
+1  -  Lucia   Ribes
+1  -  Amparo   Manjón
+2 Unión Deportiva  Port Jana
+Creem jugadores de l'equip 2 Unión Deportiva  Port Jana
+2  -  Fabiola   Alcántara
+2  -  Valèria   Castell
+2  -  Lucia   Alemany
+2  -  María   Quintanilla
+2  -  Celia   Rodríguez
+2  -  Mia   Solsona
+2  -  Zaira   Ribes
+2  -  Rosa   Ibañez
+2  -  Laura   Asenjo
+2  -  Custodia   Piñol
+2  -  Marta   Carrillo
+2  -  Manuela   Peralta
+2  -  Paca   Villanueva
+2  -  Apolonia   Raya
+2  -  Olalla   Guerrero
+2  -  Mia   Abella
+2  -  Soledad   Echevarría
+2  -  María Dolores   Porcel
+2  -  María Teresa   Castells
+2  -  Aina   Rivero
+2  -  Carla   Parra
+2  -  Maite   Lastra
+2  -  Haydée   Castelló
+2  -  Lupita   Luís
+2  -  Antònia   Montalbán
+3 Deportivo  Manuelstad
+Creem jugadores de l'equip 3 Deportivo  Manuelstad
+3  -  María Carmen   Sevillano
+3  -  Lourdes   Lamas
+3  -  Antonia   Salamanca
+3  -  Arcelia   Escribano
+3  -  Clàudia   Casas
+3  -  Salomé   Anglada
+3  -  Dolores   Cózar
+3  -  Tomasa   Gibert
+3  -  Custodia   Llanos
+3  -  Begoña   Palma
+3  -  Aina   Ferrándiz
+3  -  María Manuela   Bravo
+3  -  Pastora   Trujillo
+3  -  Aina   Baró
+3  -  Evangelina   Mosquera
+3  -  Sílvia   Perez
+3  -  Constanza   Porta
+3  -  Isabel   Pellicer
+3  -  Amada   Belda
+3  -  Carmen   Hernandez
+3  -  Jana   Bustamante
+3  -  Paula   Ayuso
+3  -  Catalina   Tovar
+3  -  Dorita   Arenas
+3  -  María Dolores   Aguilera
+4 Balonpié  Soria
+Creem jugadores de l'equip 4 Balonpié  Soria
+4  -  Emma   Yáñez
+4  -  Aurelia   Huerta
+4  -  Diana   Ferrero
+4  -  Evita   Albero
+4  -  Benigna   Asenjo
+4  -  Ana   Barco
+4  -  Fabiola   Esparza
+4  -  Angelita   Goñi
+4  -  Ona   Raya
+4  -  Isaura   Oliva
+4  -  Laura   Gómez
+4  -  Sonia   Campoy
+4  -  Sara   Bauzà
+4  -  Crescencia   Peña
+4  -  Sofía   Benavent
+4  -  Anna   Solano
+4  -  Arlet   Becerra
+4  -  Leticia   Contreras
+4  -  Isabel   Aroca
+4  -  Socorro   Vargas
+4  -  Estela   Arroyo
+4  -  Celia   Ayllón
+4  -  Cristina   Benitez
+4  -  Sofía   Bayón
+4  -  Ona   Sabater
+5 Unión Deportiva  West Álex
+Creem jugadores de l'equip 5 Unión Deportiva  West Álex
+5  -  Alejandra   Falcón
+5  -  Ona   Feijoo
+5  -  Montserrat   Cerezo
+5  -  Pepita   Cueto
+5  -  Rosaura   Hernandez
+5  -  Aurora   Pulido
+5  -  Alba   Mata
+5  -  Mia   Dalmau
+5  -  Nydia   Jiménez
+5  -  Azucena   Sureda
+5  -  Chlóe   Molins
+5  -  Jenny   Giner
+5  -  Inés   Robledo
+5  -  Isabel   Manrique
+5  -  Emma   Baquero
+5  -  Natalia   Pallarès
+5  -  Mónica   Zorrilla
+5  -  Valèria   Llano
+5  -  Sofía   Alberto
+5  -  Francisca   Daza
+5  -  Carmen   Sainz
+5  -  Remedios   Castelló
+5  -  Mamen   Toro
+5  -  Rosa   Castells
+5  -  Carmelita   Peiró
+6 Rayo  Pontevedra
+Creem jugadores de l'equip 6 Rayo  Pontevedra
+6  -  Bienvenida   Medina
+6  -  Antònia   Piñol
+6  -  Emperatriz   Cañete
+6  -  Antonia   Folch
+6  -  María Dolores   Comas
+6  -  Josefa   Bravo
+6  -  Lupe   Valera
+6  -  María Manuela   Vall
+6  -  Merche   Arnal
+6  -  Ana Sofía   Monreal
+6  -  Chlóe   Blanes
+6  -  Arlet   Cañas
+6  -  Nereida   Rivas
+6  -  Isabela   Baeza
+6  -  Vilma   Mariño
+6  -  Chus   Uriarte
+6  -  Dolores   Zamora
+6  -  Noa   Díaz
+6  -  Marianela   Moraleda
+6  -  Lourdes   Pinilla
+6  -  Marita   Osorio
+6  -  Antònia   Quiroga
+6  -  Carla   Goñi
+6  -  Soraya   Batlle
+6  -  Carla   Bello
+7 FC  Polmouth
+Creem jugadores de l'equip 7 FC  Polmouth
+7  -  María   Alberdi
+7  -  María Carmen   Peñalver
+7  -  Emelina   Cañas
+7  -  Tomasa   Aznar
+7  -  Antonia   Franco
+7  -  Morena   Calvo
+7  -  Laura   Arana
+7  -  María Teresa   Guijarro
+7  -  Purificación   Aranda
+7  -  Ona   Toro
+7  -  Aina   Carpio
+7  -  Adoración   Tejada
+7  -  Roberta   Taboada
+7  -  Diana   Roselló
+7  -  Graciela   Benitez
+7  -  Ona   Flor
+7  -  Sofía   Cabanillas
+7  -  Noa   Arias
+7  -  Martina   Quiroga
+7  -  Loreto   Jordá
+7  -  Josefa   Higueras
+7  -  Rosa   Gómez
+7  -  Anna   Jiménez
+7  -  Laura   Luís
+7  -  Martina   Pinilla
+8 Deportivo  Padillaside
+Creem jugadores de l'equip 8 Deportivo  Padillaside
+8  -  Loreto   Barragán
+8  -  Loida   Llobet
+8  -  Merche   Mulet
+8  -  Mercedes   Pareja
+8  -  Dolores   Ferrándiz
+8  -  Aránzazu   Lobato
+8  -  Antonia   Fonseca
+8  -  Júlia   Seco
+8  -  Zaira   Cervantes
+8  -  Emma   Mata
+8  -  Nieves   Real
+8  -  Laura   Cuervo
+8  -  Anna   Perelló
+8  -  Sílvia   Planas
+8  -  Emperatriz   Amaya
+8  -  Aina   Carbonell
+8  -  Adora   Fajardo
+8  -  Jana   Balaguer
+8  -  Núria   Meléndez
+8  -  Ana   Perera
+8  -  Celestina   Rueda
+8  -  Emma   Sancho
+8  -  Júlia   Torres
+8  -  Antònia   Beltran
+8  -  Tania   Sabater
+9 Unión Deportiva  Laiaville
+Creem jugadores de l'equip 9 Unión Deportiva  Laiaville
+9  -  Marisela   Torralba
+9  -  Delia   Iborra
+9  -  María   Mínguez
+9  -  Elodia   Valenciano
+9  -  Rosa   Martin
+9  -  Núria   Cerdá
+9  -  Antònia   Mármol
+9  -  María   Arenas
+9  -  Marta   Agullo
+9  -  Mia   Ávila
+9  -  María   Francisco
+9  -  Dora   Maestre
+9  -  Emma   Uriarte
+9  -  María Del Carmen   Tormo
+9  -  Ona   Laguna
+9  -  Selena   Luna
+9  -  Emma   Uribe
+9  -  Tomasa   Vaquero
+9  -  Anna   Bosch
+9  -  María   Puga
+9  -  Sara   Alberto
+9  -  Valèria   Guardia
+9  -  María Teresa   Vilaplana
+9  -  Eufemia   Cañas
+9  -  Yéssica   Carmona
+10 CD  Zamora
+Creem jugadores de l'equip 10 CD  Zamora
+10  -  Chus   Muñoz
+10  -  Chlóe   Pozo
+10  -  Sílvia   Real
+10  -  Carla   Muro
+10  -  María Teresa   Iñiguez
+10  -  Mia   Salcedo
+10  -  Antònia   Bayo
+10  -  Calista   Roldán
+10  -  Sofía   Olmedo
+10  -  María Teresa   Aliaga
+10  -  Dolores   Casado
+10  -  Cristina   Ríos
+10  -  Graciela   Chamorro
+10  -  Mercedes   Gallart
+10  -  Jana   Grande
+10  -  Arlet   Ortega
+10  -  Ana   Figuerola
+10  -  María Dolores   Folch
+10  -  Paloma   Ramis
+10  -  Modesta   Carbó
+10  -  Eufemia   Giralt
+10  -  María   Azcona
+10  -  Adriana   Arjona
+10  -  Viviana   Arévalo
+10  -  María   Cuéllar
+11 Deportivo  Burgos
+Creem jugadores de l'equip 11 Deportivo  Burgos
+11  -  Eulalia   Uriarte
+11  -  Sofía   Segarra
+11  -  Rosa María   Porras
+11  -  Coral   Gual
+11  -  Manu   Fuster
+11  -  Clàudia   Mayoral
+11  -  Rosa   Suarez
+11  -  Dolores   Carreño
+11  -  Montserrat   Martorell
+11  -  Griselda   Guerrero
+11  -  Manu   Catalán
+11  -  Mia   Carmona
+11  -  Laura   Valderrama
+11  -  Emma   Sola
+11  -  Montserrat   Zabala
+11  -  Dolores   Hidalgo
+11  -  Lidia   Arco
+11  -  Claudia   Herrero
+11  -  Isabel   Rojas
+11  -  Ana   Echeverría
+11  -  Cristina   Castelló
+11  -  Antonia   Vaquero
+11  -  Ana Sofía   Barberá
+11  -  Hilda   Folch
+11  -  María Del Carmen   Cases
+12 Athletic  Cerezoton
+Creem jugadores de l'equip 12 Athletic  Cerezoton
+12  -  Marta   Alonso
+12  -  África   Torralba
+12  -  Antònia   Casado
+12  -  Reyna   Cuesta
+12  -  Trinidad   Santiago
+12  -  Paloma   Ballesteros
+12  -  Filomena   Arrieta
+12  -  Concha   Lledó
+12  -  Carla   Alvarez
+12  -  Chlóe   Tomé
+12  -  Anna   Cabrera
+12  -  Paula   Iglesias
+12  -  Laia   Gracia
+12  -  Violeta   Coloma
+12  -  María Del Carmen   Izquierdo
+12  -  Ana   Sanmartín
+12  -  Azahara   Vidal
+12  -  Pilar   Tejera
+12  -  Marta   Feijoo
+12  -  Delia   Ramos
+12  -  Gertrudis   Barberá
+12  -  Noa   Rosell
+12  -  Arlet   Abad
+12  -  Arlet   Bolaños
+12  -  Odalis   Osuna
+13 FC  Port Júlia
+Creem jugadores de l'equip 13 FC  Port Júlia
+13  -  Mia   Blazquez
+13  -  Montserrat   Julián
+13  -  Ignacia   Vera
+13  -  Soledad   Alvarado
+13  -  Valentina   Murillo
+13  -  María José   Moll
+13  -  Reina   Zamora
+13  -  Matilde   Toro
+13  -  Begoña   Escobar
+13  -  Carina   Montoya
+13  -  Anna   Baena
+13  -  Victoria   Girón
+13  -  Octavia   Cortés
+13  -  Lorenza   Aguiló
+13  -  Montserrat   Fiol
+13  -  Antonia   Feijoo
+13  -  Antonia   Figueroa
+13  -  Antònia   Izquierdo
+13  -  Núria   Báez
+13  -  Núria   Checa
+13  -  Paula   Hervia
+13  -  Eufemia   Narváez
+13  -  Haydée   Esteve
+13  -  Pascuala   Elorza
+13  -  María Teresa   Jiménez
+14 CD  León
+Creem jugadores de l'equip 14 CD  León
+14  -  Carina   Bas
+14  -  Arlet   Palomar
+14  -  Ileana   Báez
+14  -  Rita   Morillo
+14  -  Aitana   Pol
+14  -  Feliciana   Huertas
+14  -  Adela   Vazquez
+14  -  Florinda   Sanchez
+14  -  Isaura   Escalona
+14  -  María Teresa   Ayuso
+14  -  Miguela   Solano
+14  -  Candelas   Angulo
+14  -  Vanesa   Lamas
+14  -  Paula   Carballo
+14  -  Emma   Benitez
+14  -  Josefa   Mariscal
+14  -  María Ángeles   Sala
+14  -  Júlia   Guzmán
+14  -  Noa   Barreda
+14  -  Arlet   Anglada
+14  -  Dalila   Río
+14  -  Mia   Dávila
+14  -  Dolores   Aguiló
+14  -  Paula   Hernando
+14  -  Ramona   Peralta
+15 Athletic  Lastraton
+Creem jugadores de l'equip 15 Athletic  Lastraton
+15  -  Mia   Albero
+15  -  Amarilis   Escolano
+15  -  Antònia   Neira
+15  -  Caridad   Linares
+15  -  Montserrat   Planas
+15  -  Lupita   Falcó
+15  -  Sara   Chacón
+15  -  Marta   Nadal
+15  -  Verónica   Losada
+15  -  Paula   Carbonell
+15  -  Pacífica   Dalmau
+15  -  Carla   Sarmiento
+15  -  Evita   Lucena
+15  -  Abril   Ortuño
+15  -  Montserrat   Agustí
+15  -  Irene   Matas
+15  -  Montserrat   Pujadas
+15  -  Dolores   Vila
+15  -  Gertrudis   Blanch
+15  -  Inmaculada   Espinosa
+15  -  Rosalva   Reig
+15  -  Carmen   Hernández
+15  -  Laia   Ruano
+15  -  Ámbar   Vives
+15  -  Pili   Río
+16 Athletic  Valencia
+Creem jugadores de l'equip 16 Athletic  Valencia
+16  -  Ester   Alegre
+16  -  Dulce   Albero
+16  -  Gracia   Martín
+16  -  María Del Carmen   Rebollo
+16  -  Rosa   Buendía
+16  -  Adriana   Real
+16  -  Antònia   Escudero
+16  -  Modesta   Contreras
+16  -  Emma   Posada
+16  -  Lorenza   Villar
+16  -  Lucia   Castillo
+16  -  Paula   Moles
+16  -  Noa   Sureda
+16  -  Isaura   Feijoo
+16  -  Modesta   Dávila
+16  -  Lucia   Sanabria
+16  -  Violeta   Guitart
+16  -  Laura   Jáuregui
+16  -  Júlia   Valderrama
+16  -  Jennifer   Uría
+16  -  Paula   Paredes
+16  -  Ligia   Lumbreras
+16  -  Carla   Ponce
+16  -  Sílvia   Lerma
+16  -  Nilda   Galán
+17 Athletic  Expósitoville
+Creem jugadores de l'equip 17 Athletic  Expósitoville
+17  -  Otilia   Campo
+17  -  Carmen   Sanchez
+17  -  Maura   Conde
+17  -  Noa   Iñiguez
+17  -  Abril   Quirós
+17  -  Nazaret   Sanjuan
+17  -  Marisa   Mercader
+17  -  Tomasa   Palacio
+17  -  Lucia   Ferrándiz
+17  -  Marta   Ros
+17  -  Ona   Quintanilla
+17  -  Emperatriz   Plaza
+17  -  Carolina   Cózar
+17  -  Valentina   Corbacho
+17  -  Sofía   Lasa
+17  -  Silvia   Salinas
+17  -  Antònia   Ocaña
+17  -  María Del Carmen   Anglada
+17  -  Ana   Aroca
+17  -  Martina   Laguna
+17  -  Sílvia   Matas
+17  -  Estrella   Yáñez
+17  -  Juliana   Trujillo
+17  -  Griselda   Benítez
+17  -  Francisca   Figueroa
+18 CD  Córdoba
+Creem jugadores de l'equip 18 CD  Córdoba
+18  -  Marta   Casado
+18  -  Etelvina   Álvarez
+18  -  Marianela   Hidalgo
+18  -  Leyre   Sosa
+18  -  Júlia   Cantero
+18  -  Lidia   Farré
+18  -  Loida   Amador
+18  -  Teresita   Plaza
+18  -  Laia   Cabrero
+18  -  Teresa   Villalonga
+18  -  Soledad   Andrade
+18  -  Núria   Amo
+18  -  Delfina   Montero
+18  -  Sol   Ferrándiz
+18  -  Emma   Osorio
+18  -  Isabel   Francisco
+18  -  Josefa   Galán
+18  -  Florencia   Peralta
+18  -  Sofía   Carballo
+18  -  Clàudia   Galindo
+18  -  Aina   Lucas
+18  -  Sílvia   Carlos
+18  -  Rosa   Rosado
+18  -  Trinidad   Barragán
+18  -  Elisa   Romero
+19 Unión Deportiva  Zaragoza
+Creem jugadores de l'equip 19 Unión Deportiva  Zaragoza
+19  -  Ana Sofía   Andrade
+19  -  Lucia   Crespi
+19  -  Chlóe   Rocha
+19  -  Sílvia   Guzmán
+19  -  Febe   Tejera
+19  -  Yolanda   Suárez
+19  -  Leandra   Abascal
+19  -  Carla   Egea
+19  -  Gema   Torrent
+19  -  María Manuela   Aroca
+19  -  Paula   Porta
+19  -  Ágata   Nadal
+19  -  Josefa   Priego
+19  -  Chita   Domínguez
+19  -  Adelaida   Barón
+19  -  Josefa   Barón
+19  -  Valèria   Gomez
+19  -  Ángeles   Palomares
+19  -  Júlia   Fajardo
+19  -  Nélida   Pellicer
+19  -  Pepita   Huertas
+19  -  Luisa   Maestre
+19  -  Eliana   Morata
+19  -  Verónica   Cifuentes
+19  -  Iris   Corominas
+

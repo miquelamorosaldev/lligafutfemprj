@@ -12,6 +12,7 @@
         }
         .navbar {
             background-color: purple;
+            color: #fff;
         }
         .navbar-brand {
             color: #fff;
@@ -26,30 +27,39 @@
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="#">Lligues Futbol Femení</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Lligues</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Equips</a>
-                    </li>
-                    <!-- Altres enllaços de navegació -->
-                </ul>
-            </div>
-        </div>
-    </nav>
 
-    <div class="content">
-        {% block content %}
-        <!-- Contingut específic de cada pàgina -->
-        {% endblock %}
-    </div>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="#">Lligues Futbol Femení</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/lliga/3">Equips Primera</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/lliga/equip_detail/5">Jugadores Barça</a>
+                        </li>
+                        <!-- Altres enllaços de navegació -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            {% block content %}
+            <!-- Contingut específic de cada pàgina -->
+            {% endblock %}
+        </div>
+    </main>
+    <footer>
+        <div class="navbar fixed-bottom">
+            CC-BY-SA. Miquel Amorós.
+        </div>
+    </footer>
 </body>
 </html>

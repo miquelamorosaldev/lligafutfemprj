@@ -1,0 +1,7 @@
+  <ul>
+    {% for equip in equips %}
+      <li>{{ equip.nom_equip }}</li>
+    {% empty %}
+      <li>No hi ha jugadores disponibles.</li>
+    {% endfor %}
+  </ul>

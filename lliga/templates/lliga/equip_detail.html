@@ -1,0 +1,16 @@
+{% extends 'lliga/base.html' %}
+
+{% block content %}
+
+<h3>Dades de l'equip <em>{{ equip.nom_equip }}</em>.</h3>
+<h4>Ciutat:  <em>{{ equip.ciutat }}</em>.</h4>
+<h4>Jugadores de l'equip:</h4>
+  <ul>
+    {% for jugadora in jugadores %}
+      <li>{{ jugadora }}</li>
+    {% empty %}
+      <li>No hi ha lligues disponibles.</li>
+    {% endfor %}
+  </ul>
+
+{% endblock %}

@@ -9,3 +9,5 @@ admin.site.register(Equip)
 admin.site.register(Jugadora)
 admin.site.register(Partit)
 admin.site.register(Event)
+
+# Panells personalitzats.
