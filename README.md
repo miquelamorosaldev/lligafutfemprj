@@ -5,12 +5,13 @@ Exemple de web creada amb Python i Django; és una [web per gestionar lligues de
 A més a més, [s'obté llista d'equips a partir de dades obertes.](https://bytes.cat/opendata_pandas)
 
 ## Instruccions arrencar el projecte:
-````sh
+
+```sh
 (env) nomusuari@linux:~/lligafemprj$ ./manage.py runserver
 ```
 
 ## Instruccions per a crear una superusuaria i accedir al panell d'admin:
-````sh
+```sh
 (env) nomusuari@linux:~/lligafemprj$ python manage.py createsuperuser
 (env) nomusuari@linux:~/lligafemprj$ firefox https://localhost:8000/admin
 ```
