@@ -4,6 +4,9 @@ from faker import Faker
 import datetime
 #import time
 from random import randint, sample
+#Dades obertes.
+import pandas as pd
+from io import StringIO
  
 from lliga.models import *
  
@@ -17,6 +20,22 @@ class Command(BaseCommand):
         parser.add_argument('titol_lliga', nargs=1, type=str)
  
     def handle(self, *args, **options):
+
+        print("Obtenim dades equips, des d'un portal Open Data")
+        # https://www.sport.es/deportes/futbol/liga-femenina-futbol/clasificacion-liga.html
+        # Web scrapping: obtenció de dades externes al nostre sistema.
+        url: str = "https://www.sport.es/deportes/futbol/liga-femenina-futbol/clasificacion-liga.html"
+        classif: pd.DataFrame = pd.read_html(url, attrs={"summary": "Clasificación"})
+        # Per algún motiu que desconec la informació que m'interessa me la posa a 
+        # la primera posició d'una llista.
+        classificacio_df = classif[0]
+        # Seleccionem la llista dels noms dels equips.
+        classificacio_df['EQUIPO'] = classificacio_df['EQUIPO'].astype("string")
+        list_aux = classificacio_df['EQUIPO'].values.tolist()
+        llista_equips = sum(list_aux, [])
+        print(llista_equips)
+        print("Dades equips obtingudes correctament.")
+
         #print(jugador=Jugadora.objects.get(dorsal=5))
         titol_lliga = options['titol_lliga'][0]
         lliga = Lliga.objects.filter(nom_temporada=titol_lliga)
@@ -28,24 +47,28 @@ class Command(BaseCommand):
         lliga = Lliga(nom_temporada=titol_lliga)
         lliga.save()
  
-        print("Creem equips amb Faker.")
-        prefixos = ["CD", "Athletic", "", "Deportivo", "Unión Deportiva", "FC", "Esportiu", "Balompié", "Futbol", "Polideportivo"]
-        for i in range(16):
-            ciutat = faker.city()
-            prefix = prefixos[randint(0,len(prefixos)-1)]
-            if prefix:
-                prefix += " "
-            nom =  prefix + ciutat
-            equip = Equip(ciutat=ciutat,nom=nom)
-            #print(equip)
+        # print("Creem equips amb Faker.")
+        # prefixos = ["CD", "Athletic", "", "Deportivo", "Unión Deportiva", "FC", "Esportiu", "Balompié", "Futbol", "Polideportivo"]
+        # for i in range(16):
+        #     ciutat = faker.city()
+        #     prefix = prefixos[randint(0,len(prefixos)-1)]
+        #     if prefix:
+        #         prefix += " "
+        #     nom =  prefix + ciutat
+        #     equip = Equip(ciutat=ciutat,nom=nom)
+        #     #print(equip)
+        #     equip.save()
+        #     lliga.equips.add(equip)
+
+        # print("Creem equips amb dades obertes.")
+        for nom_equip in llista_equips:
+            equip = Equip(nom=nom_equip)
+             #print(equip)
             equip.save()
             lliga.equips.add(equip)
-        
-        # print("Creem equips, des de l'Open Data")
 
-
-            # Seleccionarem algunes jugadores golejadores.
-            print("Creem jugadores de l'equip "+nom)
+        # Seleccionarem algunes jugadores golejadores.
+            print("Creem jugadores de l'equip "+nom_equip)
             for j in range(Num_Jugadores_Equip):
                 nom = faker.first_name_female()
                 cognom = faker.last_name()
