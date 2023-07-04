@@ -2,6 +2,8 @@
 
 Exemple de web creada amb Python i Django; és una [web per gestionar lligues de futbol femení, exemple proposat a bytes.cat](https://www.bytes.cat/django_lliga) 
 
+A més a més, [s'obté llista d'equips a partir de dades obertes.](https://bytes.cat/opendata_pandas)
+
 ## Instruccions arrencar el projecte:
 ````sh
 (env) nomusuari@linux:~/lligafemprj$ ./manage.py runserver
@@ -24,7 +26,7 @@ Genera aleatòriament jugadores, partits i events de partits (gols, targetes...)
 
 ### v2.
 - El seeder ja crea partits i es creen els resultats a partir d'events de GOL.
-- A més a més, [s'obté llista d'equips a partir de dades obertes.]()
+- A més a més, [s'obté llista d'equips a partir de dades obertes.](https://bytes.cat/opendata_pandas)
 - La classificació de la lliga ja funciona.
 
 ### v1.
