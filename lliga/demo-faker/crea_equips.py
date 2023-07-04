@@ -5,6 +5,8 @@ from random import randint
 
 faker = Faker(['es_ES', 'es_CA'])
 
+class Command(BaseCommand):
+
 print("Creem equips")
 prefixos = ["CD", "Athletic", "Rayo", "FC", "Deportivo", "Unión Deportiva", "Balonpié"]
 for i in range(20):

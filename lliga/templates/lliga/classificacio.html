@@ -1,0 +1,16 @@
+{% extends 'lliga/base.html' %}
+
+{% block content %}
+<h3>Classificació</h3>
+
+<a href="/">Tornar</a>
+
+<h4>{{lliga.nom_temporada}}</h4>
+
+<ol>
+{% for equip in classificacio %}
+	<li>{{equip.1}} ({{equip.0}} punts)</li>
+{% endfor %}
+</ol>
+
+{% endblock %}

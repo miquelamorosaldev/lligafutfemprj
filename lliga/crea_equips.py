@@ -1,4 +1,4 @@
-from faker import Faker
+rom faker import Faker
 from django.utils import timezone
 from datetime import timedelta, time
 from random import randint

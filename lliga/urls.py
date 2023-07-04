@@ -12,4 +12,6 @@ urlpatterns = [
     path("equip_detail/<int:equip_id>/", views.equip_detail, name="equip_detail"),
     path('get_lligues', api.get_lligues ),
     path('get_equips/<int:lliga_id>', api.get_equips ),
+    path('classificacio', views.classificacio),
+    path('classificacio/<int:lliga_id>', views.classificacio, name="classificacio"),
 ]
