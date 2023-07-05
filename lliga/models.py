@@ -32,7 +32,7 @@ class Jugadora(models.Model):
     equip = models.ForeignKey(Equip, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f'{self.dorsal} - {self.nom}'
+        return f'{self.dorsal} - {self.nom}. Equip = {self.equip.nom}'
     class Meta:
         verbose_name_plural = 'Jugadores'
 

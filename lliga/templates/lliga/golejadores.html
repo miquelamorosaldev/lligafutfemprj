@@ -1,0 +1,25 @@
+{% extends 'lliga/base.html' %}
+
+{% block content %}
+
+<div class="d-flex flex-row">
+	<div class="p-3">
+		<h3>Màximes golejadores</h3>
+
+		<h4>{{equip.nom}}</h4>
+
+		  <ol>
+		    {% for key, value in jugadores.items %}
+		      <li>{{key}} : {{value}}</li>
+		    {% empty %}
+		      <li>No hi ha jugadores disponibles.</li>
+		    {% endfor %}
+		  </ol>
+	</div>
+
+	<div class="p-3">
+		<img src="data:image/png;base64, {{grafic|safe}}" alt="Gràfic golejadores lliga" id="grafic">
+	</div>
+</div>
+
+{% endblock %}

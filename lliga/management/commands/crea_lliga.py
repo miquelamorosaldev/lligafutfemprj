@@ -38,6 +38,7 @@ class Command(BaseCommand):
 
         #print(jugador=Jugadora.objects.get(dorsal=5))
         titol_lliga = options['titol_lliga'][0]
+        
         lliga = Lliga.objects.filter(nom_temporada=titol_lliga)
         if lliga.count()>0:
             print("Aquesta lliga ja està creada. Posa un altre nom.")
@@ -67,7 +68,7 @@ class Command(BaseCommand):
             equip.save()
             lliga.equips.add(equip)
 
-        # Seleccionarem algunes jugadores golejadores.
+        # Seleccionarem algunes jugadores.
             print("Creem jugadores de l'equip "+nom_equip)
             for j in range(Num_Jugadores_Equip):
                 nom = faker.first_name_female()
