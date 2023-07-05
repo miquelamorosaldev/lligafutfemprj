@@ -25,6 +25,10 @@ Genera aleatòriament jugadores, partits i events de partits (gols, targetes...)
 
 ## Control versions (manual) projecte:
 
+### v3.
+- Creació secció de màximes golejadores (d'un equip).
+- Conté gràfic de barres amb matplotlib
+
 ### v2.
 - El seeder ja crea partits i es creen els resultats a partir d'events de GOL.
 - A més a més, [s'obté llista d'equips a partir de dades obertes.](https://bytes.cat/opendata_pandas)
